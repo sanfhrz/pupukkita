@@ -167,28 +167,6 @@ pupukkita
 
 ---
 
-## 📸 Screenshot (opsional)
-
-Tambahkan ke folder `assets/screenshots/` jika kamu punya:
-
-```
-assets/screenshots/homepage.png
-assets/screenshots/admin-dashboard.png
-```
-
-```markdown
-![Beranda](assets/screenshots/homepage.png)
-![Admin Dashboard](assets/screenshots/admin-dashboard.png)
-```
-
----
-
-## 🛡️ Lisensi
-
-> Proyek ini dikembangkan untuk tugas kampus dan pembelajaran.  
-> Dilarang menyebarluaskan atau memperjualbelikan tanpa izin pembuat.
-
----
 
 ## 📞 Kontak Developer
 
